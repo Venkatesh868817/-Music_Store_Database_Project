@@ -1,4 +1,4 @@
-# 📊 Music Store Database Project
+# 📊  Music Store Database Project
 
 ## 📌 Overview
 
@@ -59,5 +59,4 @@ The database represents a digital music store where:
 
 ## 👤 Author
 
-**Venkatesh**
-(Click name to view LinkedIn profile)
+[**Venkatesh**](https://www.linkedin.com/in/sangem-venkatesh-7ba284301/)
