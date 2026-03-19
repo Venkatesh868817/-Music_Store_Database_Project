@@ -60,4 +60,4 @@ The database represents a digital music store where:
 ## 👤 Author
 
 **Venkatesh**
-
+(Click name to view LinkedIn profile)
